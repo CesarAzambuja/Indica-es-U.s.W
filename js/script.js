@@ -82,8 +82,6 @@ const dados = [
       
 ]
 
-console.log(dados)
-
     dados.forEach ((item) => {
         cards.innerHTML += ` <div class="card">
         <div class="card__image__container" id="${item.id}">
