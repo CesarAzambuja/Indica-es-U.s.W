@@ -5,7 +5,7 @@ const dados = [
     {
         id: true,
         title: "Curso em Video - HTML5 / CSS / JS",
-        image: "img/html.png",
+        image: "img/html.PNG",
         price: "Acessar",
         url_repo: "https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o"
     },
@@ -19,7 +19,7 @@ const dados = [
     {
         id: true,
         title: "Curso em Video - Lógica de Programação",
-        image: "img/cursoenvideo.png",
+        image: "img/cursoenvideo.PNG",
         price: "Acessar",
         url_repo: "https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV"
     },
